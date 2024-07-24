@@ -5,6 +5,9 @@ CS50 is Harvard University's introductory computer science course, widely recogn
 Links to each problem set are posted below, and the C files within the repository are my solutions to these problem sets.
 
 ## 🏫 Lecture 1 Links:
+- **[Population Growth](https://cs50.harvard.edu/x/2023/psets/1/population/)**
+  - *Description*: Implement a program to calculate how many years it takes for a llama population to reach a given size.
+  - *Approach*: Used loops to simulate yearly population growth based on birth and death rates.
 
 - **[CS50 Problem Set One](https://cs50.harvard.edu/x/2023/psets/1/)**
   - [Mario-Less](https://cs50.harvard.edu/x/2023/psets/1/mario/less/)
