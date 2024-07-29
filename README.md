@@ -4,7 +4,7 @@ CS50 is Harvard University's introductory computer science course, widely recogn
 
 Links to each problem set are posted below, and the C files within the repository are my solutions to these problem sets.
 
-## 🏫 Lecture 1 Links:
+## 🏫 Lecture 1, C Links:
 
 - **[CS50 Lab One](https://cs50.harvard.edu/x/2023/psets/1/population/)**
   - [Population Growth](https://cs50.harvard.edu/x/2023/labs/1/)
@@ -24,6 +24,8 @@ Links to each problem set are posted below, and the C files within the repositor
   - [Credit](https://cs50.harvard.edu/x/2023/psets/1/credit/)
     - *Description*: Write a program to validate credit card numbers using Luhn's algorithm.
     - *Approach*: Implemented Luhn’s algorithm to verify the card number and determine the card type.
+   
+## 🏫 Lecture 2, Arrays Links:
 
 ## Technologies and Skills:
 
