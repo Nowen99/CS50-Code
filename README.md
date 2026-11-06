@@ -1,6 +1,6 @@
 # CS50 Projects Repository
 
-I'm working through Harvard University's CS50 course at my own pace to strengthen my programming and problem-solving skills. This repository contains my practice and problem set solutions as I progress through the course; it does not represent a completed course.
+I'm working through Harvard University's CS50 course at my own pace to strengthen my programming and problem-solving skills. This repository contains my practice and problem set solutions as I progress through the course.
 
 I've worked through Lecture 1: C. Lecture 2: Arrays is in progress, and I'll add solutions as I continue.
 
