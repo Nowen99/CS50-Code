@@ -1,8 +1,10 @@
 # CS50 Projects Repository
 
-CS50 is Harvard University's introductory computer science course, widely recognized for its rigorous yet accessible approach to teaching foundational programming and problem-solving skills. For me, CS50 was incredibly useful in developing my tech career, providing a strong foundation in computer science principles and practical programming experience. The course's emphasis on real-world projects and critical thinking helped me build a robust understanding of various programming languages and technologies, fostering both technical proficiency and confidence. This comprehensive education enabled me to tackle complex tech challenges, making me a more capable and versatile professional in the tech industry.
+I'm working through Harvard University's CS50 course at my own pace to strengthen my programming and problem-solving skills. This repository contains my practice and problem set solutions as I progress through the course; it does not represent a completed course.
 
-Links to each problem set are posted below, and the C files within the repository are my solutions to these problem sets.
+I've worked through Lecture 1: C. Lecture 2: Arrays is in progress, and I'll add solutions as I continue.
+
+Links to the problem sets are listed below, with my available C solutions stored in the repository.
 
 ## 🏫 Lecture 1, C:
 
@@ -26,6 +28,8 @@ Links to each problem set are posted below, and the C files within the repositor
     - *Approach*: Implemented Luhn’s algorithm to verify the card number and determine the card type.
    
 ## 🏫 Lecture 2, Arrays:
+
+**Status: In progress.** Picking up with Arrays; solutions will be added as I work through this section.
 
 ## Technologies and Skills:
 
